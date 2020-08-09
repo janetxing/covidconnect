@@ -33,7 +33,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <!-- Header -->
 <header class="w3-container w3-wheat w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">Covid Connect</h1>
-  <p class="w3-xlarge">connecting socially distanced people</p>
+  <p class="w3-xlarge">Connecting socially distanced people</p>
   <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top"><a href = "https://docs.google.com/forms/d/e/1FAIpQLSftFdFiYL62c-ilL-5j739W2oyOAqx8dOA_OtUJlx1MdOhpAA/viewform"> Get Started </a> </button>
 </header>
 
